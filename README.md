@@ -1,5 +1,5 @@
 # 911-Calls-Data-Capstone-Data-Exploration-Project
-Here I perform exploratory analysis to data set found on Kaggle.com
+Here I performed exploratory analysis to data set found on Kaggle.com
 
 For this capstone project we will be analyzing some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert). The data contains the following fields:
 
